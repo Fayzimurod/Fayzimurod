@@ -1,6 +1,1 @@
-## 👨‍💻 Обо мне
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Coding">
-
-💻 Backend разработчик  
-🚀 Люблю open-source проекты  
-📫 Как связаться: ...
+<img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)" width="300" alt="Coding">
