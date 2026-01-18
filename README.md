@@ -11,6 +11,7 @@
 <!-- <img src="https://camo.githubusercontent.com/886a80e180232a80f8632df91f5070985a8193b3ad497a625f7f9eb20ffb7679/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d7261706861656c616d6f6e746569726f267468656d653d61757261" alt="stats" width="150" > -->
 <!-- <img src="https://camo.githubusercontent.com/84df9969a26dc10c9c8d87f33a0ccaa93274bb1ae158556ede480a604743a4e5/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d46724d61686f6e267468656d653d7261646963616c26686964655f626f726465723d66616c7365" height="150" data-canonical-src="https://nirzak-streak-stats.vercel.app/?user=FrMahon&amp;theme=radical&amp;hide_border=false" style="max-width: 100%; height: auto; max-height: 150px;"> -->
 <!-- <img src="https://raw.githubusercontent.com/chrysthy/chrysthy/output/github-contribution-grid-snake.svg" alt="contribution" width="100%" > -->
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="dinosaur" width="100%" >
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg">
