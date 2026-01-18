@@ -12,7 +12,7 @@
 <!-- <img src="https://camo.githubusercontent.com/84df9969a26dc10c9c8d87f33a0ccaa93274bb1ae158556ede480a604743a4e5/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d46724d61686f6e267468656d653d7261646963616c26686964655f626f726465723d66616c7365" height="150" data-canonical-src="https://nirzak-streak-stats.vercel.app/?user=FrMahon&amp;theme=radical&amp;hide_border=false" style="max-width: 100%; height: auto; max-height: 150px;"> -->
 <!-- <img src="https://raw.githubusercontent.com/chrysthy/chrysthy/output/github-contribution-grid-snake.svg" alt="contribution" width="100%" > -->
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="dinosaur" width="100%" >
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="pacman" width="100%" >
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="pacman" width="100%" > -->
 <div style="display: flex;flex-wrap: wrap;">
   <img src="https://camo.githubusercontent.com/242ff63f07db8e98fe82bf85ab34c815393145b9f5431688654b0d28161eaaad/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" alt="parrot" width="50px" >
   <img src="https://camo.githubusercontent.com/3f78c1da994ed6454f47e0e6498d3b39f44167240a0371870a7cb23eb62aecbf/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" alt="parrot" width="50px" >
@@ -26,7 +26,7 @@
   <img src="https://camo.githubusercontent.com/2b5dccad44d0508888b9c7bd80c92b385f5c6a930cadb1a413aa4b04b7e661bd/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f736369656e6365706172726f742e676966" alt="parrot" width="50px" >
   <img src="https://camo.githubusercontent.com/de56ff7b6622083a4860eb61a023fdf49fecb157c1f17723898cf47b5eea4a99/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f706972617465706172726f742e676966" alt="parrot" width="50px" >
   <img src="https://camo.githubusercontent.com/5ed4f92bfc0e705117e7a7fffcc9ce5ccdd12cad74efd3ec5c7c8fc6594c7a14/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f666f6f7462616c6c706172726f742e676966" alt="parrot" width="50px" >
-  <img src="" alt="parrot" width="50px" >
+  <img src="https://camo.githubusercontent.com/c8e4df60bb83cbacaad022f21fc14ce768b2e705399d61b020af37bd6120cbb8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" alt="parrot" width="50px" >
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake-dark.svg">
