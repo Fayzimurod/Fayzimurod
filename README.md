@@ -96,9 +96,9 @@
 </div>
 
 
-<p align="center" dir="auto">
+<!-- <p align="center" dir="auto">
  <a target="_blank" rel="noopener noreferrer" href="/Fayzimurod/Fayzimurod/blob/main/.github/workflows/snake.svg"><img width="1000" src="/Fayzimurod/Fayzimurod/raw/main/.github/workflows/snake.svg" alt="snake" style="max-width: 100%;"></a>
-</p>
+</p>-->
 <div align="center" dir="auto">
  📊 GitHub Activity
 
