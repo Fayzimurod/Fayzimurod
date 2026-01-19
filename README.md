@@ -57,6 +57,9 @@
 </picture> -->
 <!-- <img src="https://github.com/ttuhina/ttuhina/raw/output/github-snake-dark.svg" alt="github contribution snake" style="max-width: 100%;"> -->
 
+<p align="center">
+ <img width="1000" src=".github/workflows/snake.yml" alt="snake"/>
+</p>
 
 
 
