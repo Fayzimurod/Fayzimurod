@@ -53,6 +53,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg" style="visibility: visible; width: 670px;height: 100px;">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg" style="visibility: visible; width: 800px;height: auto;">
 </picture>
 <!-- <img src="https://github.com/ttuhina/ttuhina/raw/output/github-snake-dark.svg" alt="github contribution snake" style="max-width: 100%;"> -->
