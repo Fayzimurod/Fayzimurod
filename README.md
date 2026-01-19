@@ -79,22 +79,15 @@
 
 
 <div align="center">
-  
-# Fayzimurod 👋
-
 ## 📊 GitHub Activity
-
 <!-- Динамическая статистика -->
 ![Fayzimurod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fayzimurod&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&icon_color=8956e5&text_color=c9d1d9)
-
 <!-- Стрик -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fayzimurod&theme=radical&hide_border=true&background=0D1117&border=8956e5&stroke=8956e5&ring=8956e5&fire=8956e5&currStreakNum=8956e5&sideNums=8956e5&currStreakLabel=8956e5&sideLabels=8956e5&dates=8b949e)](https://git.io/streak-stats)
-
 <!-- Топ языки -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayzimurod&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&text_color=c9d1d9&langs_count=8)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayzimurod&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&text_color=c9d1d9&langs_count=8) -->
 
 ## 🐍 Фиолетовая Змейка
-
 <!-- Кастомная фиолетовая змейка -->
 ![Snake animation](https://raw.githubusercontent.com/Fayzimurod/Fayzimurod/output/github-contribution-grid-snake.svg)
 
