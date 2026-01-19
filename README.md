@@ -50,9 +50,9 @@
   <img src="https://camo.githubusercontent.com/5ed4f92bfc0e705117e7a7fffcc9ce5ccdd12cad74efd3ec5c7c8fc6594c7a14/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f666f6f7462616c6c706172726f742e676966" alt="parrot" width="50px" >
   <img src="https://camo.githubusercontent.com/c8e4df60bb83cbacaad022f21fc14ce768b2e705399d61b020af37bd6120cbb8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" alt="parrot" width="50px" >
 </div>
-<picture style="max-width: auto;max-heigth: 100px;" >
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg" style="visibility: visible; width: 100%;">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg" style="visibility: visible; width: 670px;height: 100px;">
 </picture>
 <!-- <img src="https://github.com/ttuhina/ttuhina/raw/output/github-snake-dark.svg" alt="github contribution snake" style="max-width: 100%;"> -->
