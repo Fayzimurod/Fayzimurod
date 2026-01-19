@@ -112,25 +112,12 @@
 
 
 
-<themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 850px;height: 150px;">
-</picture></themed-picture>
-
-
-
-
-
-
-
-
 
 <!-- <p align="center" dir="auto">
  <a target="_blank" rel="noopener noreferrer" href="/Fayzimurod/Fayzimurod/blob/main/.github/workflows/snake.svg"><img width="1000" src="/Fayzimurod/Fayzimurod/raw/main/.github/workflows/snake.svg" alt="snake" style="max-width: 100%;"></a>
 </p>-->
 <div align="center" dir="auto">
- 📊 GitHub Activity
+
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/94a0f13cd78f8735b263aec024f815875c394c7e71d908742e7355b1a99a8a68/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4661797a696d75726f642673686f775f69636f6e733d74727565267468656d653d7261646963616c26686964655f626f726465723d747275652662675f636f6c6f723d306431313137267469746c655f636f6c6f723d3839353665352669636f6e5f636f6c6f723d38393536653526746578745f636f6c6f723d633964316439"><img src="https://camo.githubusercontent.com/94a0f13cd78f8735b263aec024f815875c394c7e71d908742e7355b1a99a8a68/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4661797a696d75726f642673686f775f69636f6e733d74727565267468656d653d7261646963616c26686964655f626f726465723d747275652662675f636f6c6f723d306431313137267469746c655f636f6c6f723d3839353665352669636f6e5f636f6c6f723d38393536653526746578745f636f6c6f723d633964316439" alt="Fayzimurod's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Fayzimurod&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8956e5&amp;icon_color=8956e5&amp;text_color=c9d1d9" style="max-width: 100%;"></a></p>
 
@@ -146,9 +133,24 @@
 
 
 
-<p dir="auto">📈 Contribution Graph</p>
+<!-- <p dir="auto">📈 Contribution Graph</p> -->
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19609ae6bd196de414c4fc76206ec067782cb99b061b4d9039d1e5c7017d8ebb/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d4661797a696d75726f64267468656d653d72656163742d6461726b2662675f636f6c6f723d30643131313726686964655f626f726465723d7472756526636f6c6f723d383935366535266c696e653d38393536653526706f696e743d38393536653526617265613d7472756526617265615f636f6c6f723d383935366535"><img src="https://camo.githubusercontent.com/19609ae6bd196de414c4fc76206ec067782cb99b061b4d9039d1e5c7017d8ebb/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d4661797a696d75726f64267468656d653d72656163742d6461726b2662675f636f6c6f723d30643131313726686964655f626f726465723d7472756526636f6c6f723d383935366535266c696e653d38393536653526706f696e743d38393536653526617265613d7472756526617265615f636f6c6f723d383935366535" alt="Contribution Graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=Fayzimurod&amp;theme=react-dark&amp;bg_color=0d1117&amp;hide_border=true&amp;color=8956e5&amp;line=8956e5&amp;point=8956e5&amp;area=true&amp;area_color=8956e5" style="max-width: 100%;"></a></p>
+
+
+
+
+
+
+<themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 850px;height: 150px;">
+</picture></themed-picture>
+
+
+
+
 
 
 
