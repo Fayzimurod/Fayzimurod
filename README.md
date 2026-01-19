@@ -73,52 +73,47 @@
 
 
 
-
-
-
-
-
 <div align="center">
-## 📊 GitHub Activity
+ 📊 GitHub Activity
+
 <!-- Динамическая статистика -->
 ![Fayzimurod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fayzimurod&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&icon_color=8956e5&text_color=c9d1d9)
+
 <!-- Стрик -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Fayzimurod&theme=radical&hide_border=true&background=0D1117&border=8956e5&stroke=8956e5&ring=8956e5&fire=8956e5&currStreakNum=8956e5&sideNums=8956e5&currStreakLabel=8956e5&sideLabels=8956e5&dates=8b949e)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Fayzimurod&theme=radical&hide_border=true&background=0D1117&border=8956e5&stroke=8956e5&ring=8956e5&fire=8956e5&currStreakNum=8956e5&sideNums=8956e5&currStreakLabel=8956e5&sideLabels=8956e5&dates=8b949e)](https://git.io/streak-stats) -->
+
 <!-- Топ языки -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayzimurod&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&text_color=c9d1d9&langs_count=8) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayzimurod&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&text_color=c9d1d9&langs_count=8)
 
-## 🐍 Фиолетовая Змейка
-<!-- Кастомная фиолетовая змейка -->
-![Snake animation](https://raw.githubusercontent.com/Fayzimurod/Fayzimurod/output/github-contribution-grid-snake.svg)
+<!--  🛠️ Технологии и Инструменты -->
 
-*💜 Змейка автоматически обновляется каждый день!*
+<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
+<!-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) -->
+<!-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) -->
+<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
+<!-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) -->
+<!-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) -->
+<!-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) -->
+<!-- ![GitHub](https://img.shields.io/badge/GitHub-8956E5?style=for-the-badge&logo=github&logoColor=white) -->
 
-## 🛠️ Технологии и Инструменты
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-8956E5?style=for-the-badge&logo=github&logoColor=white)
-
-## 📈 Contribution Graph
+ 📈 Contribution Graph
 
 <!-- График вкладов -->
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fayzimurod&theme=react-dark&bg_color=0d1117&hide_border=true&color=8956e5&line=8956e5&point=8956e5&area=true&area_color=8956e5)
 
-## 📫 Контакты
+<!-- ## 📫 Контакты -->
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+<!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com) -->
+<!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username) -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) -->
 
 ---
 
-*✨ Статистика обновляется автоматически*
+<!-- *✨ Статистика обновляется автоматически* -->
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Fayzimurod&color=8956e5&style=flat-square)
+<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=Fayzimurod&color=8956e5&style=flat-square) -->
 
 </div>
+
+
+
