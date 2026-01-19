@@ -110,7 +110,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 100%;">
 </picture></themed-picture> -->
 
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
       <div class="snippet-clipboard-content notranslate position-relative overflow-auto">
             <pre class="notranslate">
 <themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture>
@@ -120,7 +119,6 @@
 </picture></themed-picture>
             </pre>
       </div>
-</article>
 
 
 
