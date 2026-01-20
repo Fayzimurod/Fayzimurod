@@ -133,6 +133,9 @@
 </picture></themed-picture>
 </code></div> -->
 
+
+
+<div align=center>🐍 contributions</div>
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 850px;height: 150px;">
 
 
