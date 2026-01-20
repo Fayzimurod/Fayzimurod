@@ -135,7 +135,7 @@
 
 
 
-<div style="fontSize: 20px;align-items: center;">🐍 contributions</div>
+<div style="fontSize: 25;align-items: center;">🐍 contributions</div>
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 100%;">
 
 
