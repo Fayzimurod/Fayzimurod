@@ -141,11 +141,15 @@
 
 
 
-<div class="notranslate position-relative overflow-auto"><code>
+<!-- <div class="notranslate position-relative overflow-auto"><code>
 <themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 850px;height: 150px;">
 </picture></themed-picture>
-</code></div>
+</code></div> -->
+
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 850px;height: 150px;">
+
+
 
