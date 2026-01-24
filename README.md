@@ -24,6 +24,201 @@
 </code> -->
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8956e5&height=200&section=header&text=Dodgy&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=%&descAlignY=65&descSize=25" />
+</p>
+
+<!-- <div align="center">
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8956E5&center=true&vCenter=true&width=600&lines=Hello+World!+👋;Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer;Exploring+new+technologies) 
+</div> -->
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+
+![Fayzimurod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fayzimurod&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&icon_color=8956e5&text_color=c9d1d9&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayzimurod&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&text_color=c9d1d9&langs_count=8)
+
+</div>
+
+---
+
+## 🔥 **Contribution Activity**
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fayzimurod&theme=react-dark&bg_color=0d1117&hide_border=true&color=8956e5&line=8956e5&point=8956e5&area=true&area_color=8956e5&height=300)
+
+</div>
+
+---
+
+## 🐍 **Contribution Snake**
+
+<div align="center">
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🛠️ **Technologies & Tools**
+
+<div align="center">
+
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📈 **GitHub Streak**
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Fayzimurod&theme=radical&hide_border=true&border_radius=10&background=0D1117&stroke=8956E5&ring=8956E5&fire=8956E5&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8956E5&sideLabels=8956E5&dates=8B949E)
+
+</div>
+
+---
+
+## 🌟 **Featured Projects**
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Project 1](https://github.com/Fayzimurod/)** | A modern web application for task management | React, Node.js, MongoDB |
+| **[Project 2](https://github.com/Fayzimurod/)** | E-commerce platform with real-time features | Vue.js, Express, PostgreSQL |
+| **[Project 3](https://github.com/Fayzimurod/)** | Machine learning model deployment | Python, Flask, Docker |
+
+</div>
+
+---
+
+<!-- ## 🤝 **Connect with me**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+
+</div> -->
+
+---
+
+<!-- <div align="center">
+
+### 🎯 **Profile Visits**
+![Visitor Count](https://komarev.com/ghpvc/?username=Fayzimurod&color=8956e5&style=flat-square)
+
+### ⭐ **Support**
+If you like what I do, consider giving a ⭐ to my repositories!
+
+</div> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8956e5&height=100&section=footer&animation=twinkling" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
@@ -105,11 +300,11 @@
 <div align="center" dir="auto">
 
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/94a0f13cd78f8735b263aec024f815875c394c7e71d908742e7355b1a99a8a68/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4661797a696d75726f642673686f775f69636f6e733d74727565267468656d653d7261646963616c26686964655f626f726465723d747275652662675f636f6c6f723d306431313137267469746c655f636f6c6f723d3839353665352669636f6e5f636f6c6f723d38393536653526746578745f636f6c6f723d633964316439"><img src="https://camo.githubusercontent.com/94a0f13cd78f8735b263aec024f815875c394c7e71d908742e7355b1a99a8a68/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4661797a696d75726f642673686f775f69636f6e733d74727565267468656d653d7261646963616c26686964655f626f726465723d747275652662675f636f6c6f723d306431313137267469746c655f636f6c6f723d3839353665352669636f6e5f636f6c6f723d38393536653526746578745f636f6c6f723d633964316439" alt="Fayzimurod's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Fayzimurod&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8956e5&amp;icon_color=8956e5&amp;text_color=c9d1d9" style="max-width: 100%;"></a></p>
+<!-- <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/94a0f13cd78f8735b263aec024f815875c394c7e71d908742e7355b1a99a8a68/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4661797a696d75726f642673686f775f69636f6e733d74727565267468656d653d7261646963616c26686964655f626f726465723d747275652662675f636f6c6f723d306431313137267469746c655f636f6c6f723d3839353665352669636f6e5f636f6c6f723d38393536653526746578745f636f6c6f723d633964316439"><img src="https://camo.githubusercontent.com/94a0f13cd78f8735b263aec024f815875c394c7e71d908742e7355b1a99a8a68/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4661797a696d75726f642673686f775f69636f6e733d74727565267468656d653d7261646963616c26686964655f626f726465723d747275652662675f636f6c6f723d306431313137267469746c655f636f6c6f723d3839353665352669636f6e5f636f6c6f723d38393536653526746578745f636f6c6f723d633964316439" alt="Fayzimurod's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Fayzimurod&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8956e5&amp;icon_color=8956e5&amp;text_color=c9d1d9" style="max-width: 100%;"></a></p>
 
 
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ce13829cfa0e5520c9e81411a157bb74e203068d0169cd26c4fe1de854d44202/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4661797a696d75726f64266c61796f75743d636f6d70616374267468656d653d7261646963616c26686964655f626f726465723d747275652662675f636f6c6f723d306431313137267469746c655f636f6c6f723d38393536653526746578745f636f6c6f723d633964316439266c616e67735f636f756e743d38"><img src="https://camo.githubusercontent.com/ce13829cfa0e5520c9e81411a157bb74e203068d0169cd26c4fe1de854d44202/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4661797a696d75726f64266c61796f75743d636f6d70616374267468656d653d7261646963616c26686964655f626f726465723d747275652662675f636f6c6f723d306431313137267469746c655f636f6c6f723d38393536653526746578745f636f6c6f723d633964316439266c616e67735f636f756e743d38" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayzimurod&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8956e5&amp;text_color=c9d1d9&amp;langs_count=8" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ce13829cfa0e5520c9e81411a157bb74e203068d0169cd26c4fe1de854d44202/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4661797a696d75726f64266c61796f75743d636f6d70616374267468656d653d7261646963616c26686964655f626f726465723d747275652662675f636f6c6f723d306431313137267469746c655f636f6c6f723d38393536653526746578745f636f6c6f723d633964316439266c616e67735f636f756e743d38"><img src="https://camo.githubusercontent.com/ce13829cfa0e5520c9e81411a157bb74e203068d0169cd26c4fe1de854d44202/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4661797a696d75726f64266c61796f75743d636f6d70616374267468656d653d7261646963616c26686964655f626f726465723d747275652662675f636f6c6f723d306431313137267469746c655f636f6c6f723d38393536653526746578745f636f6c6f723d633964316439266c616e67735f636f756e743d38" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayzimurod&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8956e5&amp;text_color=c9d1d9&amp;langs_count=8" style="max-width: 100%;"></a></p> -->
 
 
 
@@ -121,7 +316,7 @@
 
 <!-- <p dir="auto">📈 Contribution Graph</p> -->
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19609ae6bd196de414c4fc76206ec067782cb99b061b4d9039d1e5c7017d8ebb/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d4661797a696d75726f64267468656d653d72656163742d6461726b2662675f636f6c6f723d30643131313726686964655f626f726465723d7472756526636f6c6f723d383935366535266c696e653d38393536653526706f696e743d38393536653526617265613d7472756526617265615f636f6c6f723d383935366535"><img src="https://camo.githubusercontent.com/19609ae6bd196de414c4fc76206ec067782cb99b061b4d9039d1e5c7017d8ebb/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d4661797a696d75726f64267468656d653d72656163742d6461726b2662675f636f6c6f723d30643131313726686964655f626f726465723d7472756526636f6c6f723d383935366535266c696e653d38393536653526706f696e743d38393536653526617265613d7472756526617265615f636f6c6f723d383935366535" alt="Contribution Graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=Fayzimurod&amp;theme=react-dark&amp;bg_color=0d1117&amp;hide_border=true&amp;color=8956e5&amp;line=8956e5&amp;point=8956e5&amp;area=true&amp;area_color=8956e5" style="max-width: 100%;"></a></p>
+<!-- <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19609ae6bd196de414c4fc76206ec067782cb99b061b4d9039d1e5c7017d8ebb/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d4661797a696d75726f64267468656d653d72656163742d6461726b2662675f636f6c6f723d30643131313726686964655f626f726465723d7472756526636f6c6f723d383935366535266c696e653d38393536653526706f696e743d38393536653526617265613d7472756526617265615f636f6c6f723d383935366535"><img src="https://camo.githubusercontent.com/19609ae6bd196de414c4fc76206ec067782cb99b061b4d9039d1e5c7017d8ebb/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d4661797a696d75726f64267468656d653d72656163742d6461726b2662675f636f6c6f723d30643131313726686964655f626f726465723d7472756526636f6c6f723d383935366535266c696e653d38393536653526706f696e743d38393536653526617265613d7472756526617265615f636f6c6f723d383935366535" alt="Contribution Graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=Fayzimurod&amp;theme=react-dark&amp;bg_color=0d1117&amp;hide_border=true&amp;color=8956e5&amp;line=8956e5&amp;point=8956e5&amp;area=true&amp;area_color=8956e5" style="max-width: 100%;"></a></p> -->
 
 
 
@@ -137,8 +332,8 @@
 
 
 
-<h1 style="align-items: center;">🐍 contributions</h1>
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 100%;">
+<!-- <h1 style="align-items: center;">🐍 contributions</h1>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 100%;"> -->
 
 
 
