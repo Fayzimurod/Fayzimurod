@@ -92,9 +92,10 @@
 <div align="center">
 
 <!-- ![Fayzimurod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fayzimurod&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&icon_color=8956e5&text_color=c9d1d9&include_all_commits=true) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Fayzimurod&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&icon_color=8956e5&text_color=c9d1d9&include_all_commits=true" width="400px" >
+<div style="display: flex;flex-wrap: wrap;">
+<img src="https://github-readme-stats.vercel.app/api?username=Fayzimurod&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&icon_color=8956e5&text_color=c9d1d9&include_all_commits=true" height="180px" width="auto" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayzimurod&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&text_color=c9d1d9&langs_count=8" height="180px" width="auto" >
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayzimurod&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&text_color=c9d1d9&langs_count=8) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayzimurod&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&text_color=c9d1d9&langs_count=8" width="400px" >
 </div>
 
 ---
