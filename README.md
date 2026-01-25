@@ -63,8 +63,6 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8956E5&center=true&vCenter=true&width=600&lines=Hello+World!+👋;Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer;Exploring+new+technologies) 
 </div> -->
 
----
-
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
