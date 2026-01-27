@@ -150,55 +150,6 @@ If you like what I do, consider giving a ⭐ to my repositories!
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- <p dir="auto"><animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="dinosaur" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" target="_blank">
@@ -232,28 +183,6 @@ If you like what I do, consider giving a ⭐ to my repositories!
 <!-- <p align="center" dir="auto">
  <a target="_blank" rel="noopener noreferrer" href="/Fayzimurod/Fayzimurod/blob/main/.github/workflows/snake.svg"><img width="1000" src="/Fayzimurod/Fayzimurod/raw/main/.github/workflows/snake.svg" alt="snake" style="max-width: 100%;"></a>
 </p>-->
-<div align="center" dir="auto">
-
-<!-- <p dir="auto">📈 Contribution Graph</p> -->
-
-<!-- <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/19609ae6bd196de414c4fc76206ec067782cb99b061b4d9039d1e5c7017d8ebb/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d4661797a696d75726f64267468656d653d72656163742d6461726b2662675f636f6c6f723d30643131313726686964655f626f726465723d7472756526636f6c6f723d383935366535266c696e653d38393536653526706f696e743d38393536653526617265613d7472756526617265615f636f6c6f723d383935366535"><img src="https://camo.githubusercontent.com/19609ae6bd196de414c4fc76206ec067782cb99b061b4d9039d1e5c7017d8ebb/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d4661797a696d75726f64267468656d653d72656163742d6461726b2662675f636f6c6f723d30643131313726686964655f626f726465723d7472756526636f6c6f723d383935366535266c696e653d38393536653526706f696e743d38393536653526617265613d7472756526617265615f636f6c6f723d383935366535" alt="Contribution Graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=Fayzimurod&amp;theme=react-dark&amp;bg_color=0d1117&amp;hide_border=true&amp;color=8956e5&amp;line=8956e5&amp;point=8956e5&amp;area=true&amp;area_color=8956e5" style="max-width: 100%;"></a></p> -->
 
 
-
-
-
-<!-- <div class="notranslate position-relative overflow-auto"><code>
-<themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 850px;height: 150px;">
-</picture></themed-picture>
-</code></div> -->
-
-
-
-<!-- <h1 style="align-items: center;">🐍 contributions</h1>
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chinneee/chinneee/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 100%;"> -->
-
-
-
+<!-- <h1 style="align-items: center;">🐍 contributions</h1> -->
