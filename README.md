@@ -101,7 +101,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Fayzimurod&theme=radical&hide_border=true&border_radius=10&background=0D1117&stroke=8956E5&ring=8956E5&fire=8956E5&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8956E5&sideLabels=8956E5&dates=8B949E)
+![Dodgy's Streak](https://streak-stats.demolab.com?user=Fayzimurod&theme=radical&hide_border=true&border_radius=10&background=0D1117&stroke=8956E5&ring=8956E5&fire=8956E5&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8956E5&sideLabels=8956E5&dates=8B949E)
 
 </div>
 
