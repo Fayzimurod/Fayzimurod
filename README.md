@@ -73,7 +73,7 @@ sating a side for car
 
 ---
 
-## 🐍 **Contribution Snake**
+<!-- ## 🐍 **Contribution Snake**
 
 <div align="center">
 
@@ -81,7 +81,7 @@ sating a side for car
 
 </div>
 
----
+--- -->
 
 ## 🛠️ **Technologies & Tools**
 
