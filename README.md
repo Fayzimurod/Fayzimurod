@@ -6,7 +6,6 @@ want drive a mclaren
 going to pass university exam
 going to pass university exam
 visit Cuba, Monaco, China, Canada, Moscow
-visit Cuba, Monaco, China, Canada, Moscow
 meet friends, revatives, workmates
 pay more attention about listening to music
 </p> -->
