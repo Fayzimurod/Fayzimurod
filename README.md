@@ -1,8 +1,8 @@
 <!-- <p>
 qwertyui
 qwertyui
-want drive an mclaren
-want drive
+want drive a mclaren
+want drive a 
 going to pass university exam
 visit Cuba, Monaco, China, Canada, Moscow
 meet friends, revatives, workmates
