@@ -10,7 +10,6 @@ visit Cuba, Monaco, China, Canada, Moscow
 meet friends, revatives, workmates
 meet friends, relatives, workmates
 pay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to music
-
 pay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to musicpay more attention about listening to music
 
 
