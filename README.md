@@ -1,12 +1,9 @@
 <!-- <p>
 RedeyeRedeyeRedeyeRedeyeRedeye-RedeyeRedeyeRedeyeRedeyeRedeye/RedeyeRedeyeRedeyeRedeyeRedeye-RedeyeRedeyeRedeyeRedeyeRedeye
 DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy/DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgyLucky
-LuckyLuckyLuckyLucky
+LuckyLuckyLuckyLuckyLucky-
 </p> -->
 <!-- <p>
-qwertyuiqwertyui
-qwertyuiqwertyui
-qwertyuiqwertyui
 qwertyuiqwertyui
 want drive a mclaren
 going to pass university exam
