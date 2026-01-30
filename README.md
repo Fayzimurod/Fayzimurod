@@ -3,6 +3,7 @@ qwertyui
 qwertyui
 want drive a mclaren
 want drive a mclaren
+going
 going to pass university exam
 visit Cuba, Monaco, China, Canada, Moscow
 meet friends, revatives, workmates
