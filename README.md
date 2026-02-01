@@ -14,7 +14,7 @@ MajorMajorMajorMajorMajor-MajorMajorMajorMajorMajor/MajorMajorMajorMajorMajor-Ma
 MajorMajorMajorMajorMajor-MajorMajorMajorMajorMajor/MajorMajorMajorMajorMajor-MajorMajorMajorMajorMajor
 MajorMajorMajorMajorMajor-MajorMajorMajorMajorMajor/MajorMajorMajorMajorMajor-MajorMajorMajorMajorMajor
 MajorMajorMajorMajorMajor-MajorMajorMajorMajorMajor/MajorMajorMajorMajorMajor-MajorMajorMajorMajorMajor
-SevenSevenSevenSevenSeven-SevenSevenSeven
+SevenSevenSevenSevenSeven-SevenSevenSevenSeven
 </p> -->
 <!-- <p>
 qwertyuiqwertyui
