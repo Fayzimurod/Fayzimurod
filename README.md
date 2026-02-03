@@ -1,23 +1,14 @@
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=fayzimurod&show_icons=true&title_color=ff0000&icon_color=ff0066&text_color=ff00ff&bg_color=000000&border_color=ff0000" alt="profileInfo1" style="width: 100%;" />
+<img src="https://github-readme-stats.vercel.app/api?username=fayzimurod" alt="profileInfo2" style="width: 100%;" />
+<img src="https://github-profile-trophy.vercel.app/?username=fayzimurod&theme=matrix&no-frame=false&margin-w=10" alt="profileInfo3" style="width: 100%;" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&border_radius=5&background=000000&border=FF0000&stroke=FF00FF&ring=FF0000&fire=FF0000&currStreakLabel=00FFFF" alt="profileInfo4" style="width: 100%;" />
+<img src="" alt="profileInfo5" style="width: 100%;" />
+<img src="" alt="profileInfo6" style="width: 100%;" />
+<img src="" alt="profileInfo7" style="width: 100%;" />
+<img src="" alt="profileInfo8" style="width: 100%;" />
+<img src="" alt="profileInfo9" style="width: 100%;" /> -->
 <!-- <p>
-ChevyPlateDodgyLocalWatch-LuckyArrayOtherCleanWhine/DressRoutePointPrintMatch-LabelMajorBrainWaterTigerSeven
-ArrayArrayArrayArrayArray-ArrayArrayArrayArrayArray/ChevyChevyChevyChevyChevy-ChevyChevyChevyChevyChevy
-ArrayArrayArrayArrayArray-ArrayArrayArrayArrayArray/ChevyChevyChevyChevyChevy-ChevyChevyChevyChevyChevy
-ArrayArrayArrayArrayArray-ArrayArrayArrayArrayArray/ChevyChevyChevyChevyChevy-ChevyChevyChevyChevyChevy
-ArrayArrayArrayArrayArray-ArrayArrayArrayArrayArray/ChevyChevyChevyChevyChevy-ChevyChevyChevyChevyChevy
-RouteRouteRouteRouteRoute-RouteRouteRouteRouteRoute/RouteRouteRouteRouteRoute-RouteRouteRouteRouteRoute
-RouteRouteRouteRouteRoute-RouteRouteRouteRouteRoute/RouteRouteRouteRouteRoute-RouteRouteRouteRouteRoute
-RouteRouteRouteRouteRoute-RouteRouteRouteRouteRoute/RouteRouteRouteRouteRoute-RouteRouteRouteRouteRoute
-RouteRouteRouteRouteRoute-RouteRouteRouteRouteRoute/RouteRouteRouteRouteRoute-RouteRouteRouteRouteRoute
-RouteRouteRouteRouteRoute-RouteRouteRouteRouteRoute/RouteRouteRouteRouteRoute-RouteRouteRouteRouteRoute
-LocalLocalLocalLocalLocal-LocalLocalLocalLocalLocal/LocalLocalRouteRouteRoute-RouteRouteRouteRouteRoute
-TigerTigerTigerTigerTiger-TigerTigerTigerTigerTiger/TigerTigerTigerTigerTiger-TigerTigerTigerTigerTiger
-TigerTigerTigerTigerTiger-TigerTigerTigerTigerTiger/TigerTigerTigerTigerTiger-TigerTigerTigerTigerTiger
-LocalLocalLocalLocalLocal-LocalLocalLocalLocalLocal/LocalLocalLocalLocalLocal-LocalLocalLocalLocalLocal
-DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy/DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy
-DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy/DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy
-CleanCleanCleanCleanClean-CleanCleanCleanCleanClean/CleanCleanCleanCleanClean-CleanCleanCleanCleanClean
-DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy/DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy
-DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy/DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy
+Dodgy
 </p> -->
 <!-- <p>
 qwertyuiqwertyui
@@ -69,8 +60,8 @@ pay more attention about listening to music
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayzimurod&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&text_color=c9d1d9&langs_count=8) -->
 <!-- ![Fayzimurod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fayzimurod&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&icon_color=8956e5&text_color=c9d1d9&include_all_commits=true) -->
 <div style="display: flex;flex-wrap: wrap;">
-<img src="https://github-readme-stats.vercel.app/api?username=Fayzimurod&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&icon_color=8956e5&text_color=c9d1d9&include_all_commits=true" height="180px" width="auto" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayzimurod&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&text_color=c9d1d9&langs_count=8" height="180px" width="auto" >
+<img src="https://github-readme-stats.vercel.app/api?username=Fayzimurod&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&icon_color=8956e5&text_color=c9d1d9&include_all_commits=true" alt="Dodgy's Statistics" height="180px" width="auto" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayzimurod&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&text_color=c9d1d9&langs_count=8" alt="Dodgy's Statistics" height="180px" width="auto" >
 </div>
 
 ---
