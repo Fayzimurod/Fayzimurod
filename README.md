@@ -1,7 +1,7 @@
 <!-- <p>
 DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy/DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy
 GhostGhostGhostGhostGhost-GhostGhostGhostGhostGhost/GhostGhostGhostGhostGhost-GhostGhostGhostGhostGhost
-GhostGhostGhostGhostGhost-GhostGhostGhostGhost
+GhostGhostGhostGhostGhost-GhostGhostGhostGhostGhost/
 </p> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=fayzimurod&show_icons=true&title_color=ff0000&icon_color=ff0066&text_color=ff00ff&bg_color=000000&border_color=ff0000" alt="profileInfo1" style="width: 100%;" />
 <img src="https://github-readme-stats.vercel.app/api?username=fayzimurod" alt="profileInfo2" style="width: 100%;" />
