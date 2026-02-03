@@ -1,11 +1,6 @@
 <!-- <p>
-PlatePlatePlatePlatePlate-PlatePlatePlatePlatePlate/PlatePlatePlatePlatePlate-PlatePlatePlatePlatePlate
-PlatePlate r
-LocalLocalLocalLocalLocal-LocalLocalLocalLocalLocal/LocalLocalLocalLocalLocal-LocalLocalLocalLocalLocal
+ff
 DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy/DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy
-GhostGhostGhostGhostGhost-GhostGhostGhostGhostGhost/GhostGhostGhostGhostGhost-GhostGhostGhostGhostGhost
-GhostGhostGhostGhostGhost-GhostGhostGhostGhostGhost/GhostGhostGhostGhostGhost-GhostGhostGhostGhostGhost
-PlatePlatePlatePlatePlate-PlatePlatePlatePlatePlate/PlatePlatePlatePlatePlate-PlatePlatePlatePlatePlate
 </p> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=fayzimurod&show_icons=true&title_color=ff0000&icon_color=ff0066&text_color=ff00ff&bg_color=000000&border_color=ff0000" alt="profileInfo1" style="width: 100%;" />
 <img src="https://github-readme-stats.vercel.app/api?username=fayzimurod" alt="profileInfo2" style="width: 100%;" />
@@ -17,6 +12,7 @@ PlatePlatePlatePlatePlate-PlatePlatePlatePlatePlate/PlatePlatePlatePlatePlate-Pl
 <img src="" alt="profileInfo8" style="width: 100%;" />
 <img src="" alt="profileInfo9" style="width: 100%;" /> -->
 <!-- <p>
+DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy/DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy
 qwertyuiqwertyui
 want drive a mclaren
 going to pass university exam
