@@ -81,6 +81,9 @@ pay more attention about listening to music
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayzimurod&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&text_color=c9d1d9&langs_count=8" alt="Dodgy's Statistics" height="180px" width="auto" >
 </div>
 
+<!-- [![committers.top badge](https://user-badge.committers.top/uzbekistan/Fayzimurod.svg)](https://user-badge.committers.top/uzbekistan/Fayzimurod)
+[![committers.top badge](https://org-badge.committers.top/uzbekistan/Dodgy.svg)](https://org-badge.committers.top/uzbekistan/Dodgy) -->
+
 ---
 
 ## 📈 **GitHub Streak**
