@@ -1,6 +1,6 @@
 <!-- <p>DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy/DodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy</p> -->
 <!-- <p>
-RedeyeRedeyeRedeye
+RedeyeRedeyeRedeyeRedeye
 HllctHllctHllctHllctHllct-HllctHllctHllctHllctHllct/HllctHllctHllctHllctHllct-HllctHllctHllctHllctHllct
 LastCall_Lstcll
 LstcllLstcllLstcllLstcllLstcll-LstcllLstcllLstcllLstcllLstcll/LstcllLstcllLstcllLstcllLstcll-LstcllLstcllLstcllLstcllLstcll
@@ -45,6 +45,11 @@ pay more attention about listening to music
 <!-- <p>01|E 777 EE</p> -->
 
 <p align="center">
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b9a7ff,100:5f5cff&bgColor=0d1117&height=200&section=header&text=Dodgy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" /> -->
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8956e5,100:ff5fd7&bgColor=0d1117&height=200&section=header&text=Dodgy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" /> -->
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b2dff,50:8956e5,100:c77dff&bgColor=0d1117&height=200&section=header&text=Dodgy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" /> -->
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a63ff,100:b9a7ff&bgColor=0d1117&height=200&section=header&text=Dodgy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" /> -->
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5f5cff,100:8956e5&bgColor=0d1117&height=200&section=header&text=Dodgy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" /> -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8956e5&height=200&section=header&text=Dodgy&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=%&descAlignY=65&descSize=25" />
 </p>
 
