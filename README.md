@@ -76,6 +76,7 @@ pay more attention about listening to music
 </div> -->
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
+
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
 ███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
@@ -96,7 +97,19 @@ pay more attention about listening to music
 █████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
-</code></pre></div>
+</code></pre></div> 
+
+---
+
+<a href="https://user-badge.committers.top//Fayzimurod">
+  <img src="https://user-badge.committers.top/uzbekistan/Fayzimurod.svg" alt="Committers Top" />
+</a>
+<a href="https://user-badge.committers.top/uzbekistan_public/Fayzimurod">
+<img src="https://user-badge.committers.top/uzbekistan_public/Fayzimurod.svg" />
+</a>
+<a href="https://user-badge.committers.top/uzbekistan_private/Fayzimurod">
+<img src="https://user-badge.committers.top/uzbekistan_private/Fayzimurod.svg">
+</a>
 
 ---
 
