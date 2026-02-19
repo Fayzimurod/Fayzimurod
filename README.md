@@ -1,37 +1,16 @@
 <!-- <p>DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy/DodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy</p> -->
 <!-- <p>
-Whine
-WhinyWhinyWhinyWhinyWhiny-WhinyWhinyWhinyWhinyWhiny/WhinyWhinyWhinyWhinyWhiny-WhinyWhinyWhinyWhinyWhiny
-WhineWhineWhineWhineWhine-WhineWhineWhineWhineWhine/WhineWhineWhineWhineWhine-WhineWhineWhineWhineWhine
+WhinyWhinyWhinyWhinyWhiny-WhinyWhinyWhinyWhinyWhiny/WhineWhineWhineWhineWhine-WhineWhineWhineWhineWhine
 PlatePlatePlatePlatePlate-PlatePlatePlatePlatePlate/PlatePlatePlatePlatePlate-PlatePlatePlatePlatePlate
 CheapCheapCheapCheapCheap-CheapCheapCheapCheapCheap/CheapCheapCheapCheapCheap-CheapCheapCheapCheapCheap
 DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy/DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy
-DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy/DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy
-DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy/DodgyDodgyDodgyDodgyDodgy-DodgyDodgyDodgyDodgyDodgy
 need money for hellcat 
-need money for hellcat 
-need money for hellcat 
-UloseUloseUloseUloseUlose-UloseUloseUloseUloseUlose/UloseUloseUloseUloseUlose-UloseUloseUloseUloseUlose
-Only Redeye 
-RedeyeRedeyeRedeyeRedeyeRedeye-RedeyeRedeyeRedeyeRedeyeRedeye/RedeyeRedeyeRedeyeRedeyeRedeye-RedeyeRedeyeRedeyeRedeyeRedeye
-HllctHllctHllctHllctHllct-HllctHllctHllctHllctHllct/HllctHllctHllctHllctHllct-HllctHllctHllctHllctHllct
-LastCall_Lstcll
-LstcllLstcllLstcllLstcllLstcll-LstcllLstcllLstcllLstcllLstcll/LstcllLstcllLstcllLstcllLstcll-LstcllLstcllLstcllLstcllLstcll
 </p> -->
 
-<!-- <p>01|E 021 EE</p> --> 
-<!-- <p>01|A 021 PM</p> --> 
-<!-- <p>01|E 010 EE</p> --> 
-<!-- <p>01|E 011 EE</p> --> 
-<!-- <p>01|E 001 EE</p> --> 
+<!-- <p>000, 001, 007, 011, 013, 021, 041, 616, 701, 777, 999,</p> --> 
+<!-- <p>EEE, AAA, 000, APS, VPS, APM, DDG</p> --> 
+
 <!-- <p>01|O 001 ST</p> --> 
-<!-- <p>01|B 001 BB</p> --> 
-<!-- <p>01|E 777 EE</p> --> 
-<!-- <p>01|A 001 PC</p> --> 
-<!-- <p>01|A 021 PS</p> --> 
-<!-- <p>01|A 021 PS</p> --> 
-<!-- <p>01|A 701 AA</p> --> 
-<!-- <p>01|A 021 AA</p> --> 
 
 
 
@@ -121,7 +100,7 @@ pay more attention about listening to music
 <div style="display: flex;flex-wrap: wrap;">
 <img src="https://github-readme-stats.vercel.app/api?username=Fayzimurod&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&icon_color=8956e5&text_color=c9d1d9&include_all_commits=true" alt="Dodgy's Statistics" height="180px" width="auto" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayzimurod&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8956e5&text_color=c9d1d9&langs_count=8" alt="Dodgy's Statistics" height="180px" width="auto" >
-</div>
+</div> 
 
 <!-- [![committers.top badge](https://user-badge.committers.top/uzbekistan/Fayzimurod.svg)](https://user-badge.committers.top/uzbekistan/Fayzimurod)
 [![committers.top badge](https://org-badge.committers.top/uzbekistan/Dodgy.svg)](https://org-badge.committers.top/uzbekistan/Dodgy) -->
