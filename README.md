@@ -1,4 +1,14 @@
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=Fayzimurod&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=8956e5)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fayzimurod&theme=dark&background=0d1117&hide_border=true&ring=8956e5&fire=8956e5)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayzimurod&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=8956e5)
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fayzimurod&bg_color=0d1117&color=8956e5&line=8956e5&area=true&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Fayzimurod&theme=onedark&no-frame=true&no-bg=true&column=7)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=8956e5&height=100&section=footer) -->
 <!-- <img src="" alt="" style="width: 250px;" /> -->
 
 
@@ -12,7 +22,7 @@
 <!-- <p>
 engine whine noises
 need money for dodge
-DodgeDodge
+DodgeDodgeDodge
 LoonyLoonyLoonyLoonyLoony-LoonyLoonyLoonyLoonyLoony/LoonyLoonyLoonyLoonyLoony-LoonyLoonyLoonyLoonyLoony
 WhinyWhinyWhinyWhinyWhiny-WhinyWhinyWhinyWhinyWhiny/WhineWhineWhineWhineWhine-WhineWhineWhineWhineWhine
 PlatePlatePlatePlatePlate-PlatePlatePlatePlatePlate/PlatePlatePlatePlatePlate-PlatePlatePlatePlatePlate
