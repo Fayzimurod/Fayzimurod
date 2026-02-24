@@ -114,6 +114,18 @@ pay more attention about listening to music
 ---
 
 <a href="https://user-badge.committers.top//Fayzimurod">
+  <img src="https://user-badge.committers.top/russia/Fayzimurod.svg" alt="Committers Top" />
+</a>
+<a href="https://user-badge.committers.top/russia_public/Fayzimurod">
+<img src="https://user-badge.committers.top/russia_public/Fayzimurod.svg" />
+</a>
+<a href="https://user-badge.committers.top/russia_private/Fayzimurod">
+<img src="https://user-badge.committers.top/russia_private/Fayzimurod.svg">
+</a>
+
+<!-- --- --><br/>
+
+<a href="https://user-badge.committers.top//Fayzimurod">
   <img src="https://user-badge.committers.top/uzbekistan/Fayzimurod.svg" alt="Committers Top" />
 </a>
 <a href="https://user-badge.committers.top/uzbekistan_public/Fayzimurod">
