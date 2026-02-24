@@ -14,7 +14,8 @@
 <!-- <div style="display: flex;align-items: center;justify-content: center;gap: 25px;">
             <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="kitty_gif" style="width: 45px;" />
         <span>
-            <small style="font-size: medium;">Thanks for your attention!</small><br/>
+            <small style="font-size: medium;">Thanks for your attention!</small>
+            <br/>
             <small style="font-size: medium;">Do not forget to put a star!</small>
         </span>
             <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" alt="kitty_gif" style="width: 65px; transform: scaleX(-1);" />
