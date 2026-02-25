@@ -3,7 +3,7 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fayzimurod&theme=dark&background=0d1117&hide_border=true&ring=8956e5&fire=8956e5)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fayzimurod&theme=dark&background![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fayzimurod&theme=dark&background=0d1117&hide_border=true&ring=8956e5&fire=8956e5)=0d1117&hide_border=true&ring=8956e5&fire=8956e5)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fayzimurod&theme=dark&background=0d1117&hide_border=true&ring=8956e5&fire=8956e5)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fayzimurod&theme=dark&background=0d1117&hide_border=true&ring=8956e5&fire=8956e5)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fayzimu![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fayzimurod&theme=dark&background=0d1117&hide_border=true&ring=8956e5&fire=8956e5)rod&theme=dark&background=0d1117&hide_border=true&ring=8956e5&fire=8956e5)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fayzimurod&theme=dark&background=0d1117&hide_border=true&ring=8956e5&fire=8956e5)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayzimurod&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=8956e5)
