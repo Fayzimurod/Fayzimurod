@@ -2,7 +2,7 @@
 
 DodgyDodgyDodgyDodgyDodgy-DodgyDodgy
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fayzimurod&theme=dark&background=0d1117&hide_border=true&ring=8956e5&fire=8956e5)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fayzimurod&theme=dark&background=0d1117&hide_border=true&ring=8956e5&fire=8956e![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fayzimurod&theme=dark&background=0d1117&hide_border=true&ring=8956e5&fire=8956e5)5)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fayzimurod&theme=dark&background=0d1117&hide_border=true&ring=8956e5&fire=8956e5)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fayzimurod&theme=dark&background=0d1![Streak](https://github-read![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fayzimurod&theme=dark&background=0d1117&hide_border=true&ring=8956e5&fire=8956e5)me-streak-stats.herokuapp.com/?user=Fayzimurod&theme=dark&background=0d1117&hide_border=true&ring=8956e5&fire=8956e5)117&hide_border=true&ring=8956e5&fire=8956e5)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fayzimurod&theme=dark&background=0d1117&hide_border=true&ring=8956e5&fire=8956e5)
