@@ -1,3 +1,4 @@
+
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=Fayzimurod&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=8956e5)
 
 DodgyDodgyDodgyDodgyDodgy-DodgyDodgy
@@ -148,6 +149,12 @@ pay more attention about listening to music
 <a href="https://user-badge.committers.top/uzbekistan_private/Fayzimurod">
 <img src="https://user-badge.committers.top/uzbekistan_private/Fayzimurod.svg">
 </a>
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=yourusername&color=FF7A8A&style=for-the-badge)
+<!-- <img src="https://komarev.com/ghpvc/?username=yourusername&color=FF7A8A&style=for-the-badge" alt="Profile Views" /> -->
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=plastic) -->
 
 ---
 
