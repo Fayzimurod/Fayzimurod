@@ -328,6 +328,8 @@ If you like what I do, consider giving a ⭐ to my repositories!
 
 </div> -->
 
+<!-- <small align="end">Locked in. 🧸</small> -->
+<!-- <sub><sup><sup>🧸</sup></sup></sub> -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8956e5&height=100&section=footer&animation=twinkling" />
 </p>
