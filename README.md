@@ -138,17 +138,41 @@ pay more attention about listening to music
 
 ---
 
+## 🏆 **Global Rankings**
+
 <a href="https://user-badge.committers.top//Fayzimurod">
-  <img src="https://user-badge.committers.top/russia/Fayzimurod.svg" alt="Committers Top" />
+   <img src="https://user-badge.committers.top/united_states/Fayzimurod.svg" alt="Committers Top" />
 </a>
-<a href="https://user-badge.committers.top/russia_public/Fayzimurod">
-<img src="https://user-badge.committers.top/russia_public/Fayzimurod.svg" />
+<a href="https://user-badge.committers.top/united_states_public/Fayzimurod">
+   <img src="https://user-badge.committers.top/united_states_public/Fayzimurod.svg" />
 </a>
-<a href="https://user-badge.committers.top/russia_private/Fayzimurod">
-<img src="https://user-badge.committers.top/russia_private/Fayzimurod.svg">
+<a href="https://user-badge.committers.top/united_states_private/Fayzimurod">
+   <img src="https://user-badge.committers.top/united_states_private/Fayzimurod.svg">
+</a>
+<!-- --- --><br/><br/>
+
+<a href="https://user-badge.committers.top//Fayzimurod">
+   <img src="https://user-badge.committers.top/uk/Fayzimurod.svg" alt="Committers Top" />
+</a>
+<a href="https://user-badge.committers.top/uk_public/Fayzimurod">
+   <img src="https://user-badge.committers.top/uk_public/Fayzimurod.svg" />
+</a>
+<a href="https://user-badge.committers.top/uk_private/Fayzimurod">
+   <img src="https://user-badge.committers.top/uk_private/Fayzimurod.svg">
+</a>
+<!-- --- --><br/><br/>
+
+<a href="https://user-badge.committers.top//Fayzimurod">
+   <img src="https://user-badge.committers.top/canada/Fayzimurod.svg" alt="Committers Top" />
+</a>
+<a href="https://user-badge.committers.top/canada_public/Fayzimurod">
+   <img src="https://user-badge.committers.top/canada_public/Fayzimurod.svg" />
+</a>
+<a href="https://user-badge.committers.top/canada_private/Fayzimurod">
+   <img src="https://user-badge.committers.top/canada_private/Fayzimurod.svg">
 </a>
 
-<!-- --- --><br/>
+<!-- --- --><br/><br/>
 
 <a href="https://user-badge.committers.top//Fayzimurod">
   <img src="https://user-badge.committers.top/uzbekistan/Fayzimurod.svg" alt="Committers Top" />
@@ -160,16 +184,28 @@ pay more attention about listening to music
 <img src="https://user-badge.committers.top/uzbekistan_private/Fayzimurod.svg">
 </a>
 
-<!-- --- --><br/>
+<!-- --- --><br/><br/> 
 
 <a href="https://user-badge.committers.top//Fayzimurod">
-  <img src="https://user-badge.committers.top/canada/Fayzimurod.svg" alt="Committers Top" />
+  <img src="https://user-badge.committers.top/vietnam/Fayzimurod.svg" alt="Committers Top" />
 </a>
-<a href="https://user-badge.committers.top/canada_public/Fayzimurod">
-<img src="https://user-badge.committers.top/canada_public/Fayzimurod.svg" />
+<a href="https://user-badge.committers.top/vietnam_public/Fayzimurod">
+  <img src="https://user-badge.committers.top/vietnam_public/Fayzimurod.svg" />
 </a>
-<a href="https://user-badge.committers.top/canada_private/Fayzimurod">
-<img src="https://user-badge.committers.top/canada_private/Fayzimurod.svg">
+<a href="https://user-badge.committers.top/vietnam_private/Fayzimurod">
+  <img src="https://user-badge.committers.top/vietnam_private/Fayzimurod.svg">
+</a>
+
+<!-- --- --><br/><br/>
+
+<a href="https://user-badge.committers.top//Fayzimurod">
+  <img src="https://user-badge.committers.top/russia/Fayzimurod.svg" alt="Committers Top" />
+</a>
+<a href="https://user-badge.committers.top/russia_public/Fayzimurod">
+<img src="https://user-badge.committers.top/russia_public/Fayzimurod.svg" />
+</a>
+<a href="https://user-badge.committers.top/russia_private/Fayzimurod">
+<img src="https://user-badge.committers.top/russia_private/Fayzimurod.svg">
 </a>
 
 <br/>
@@ -241,6 +277,7 @@ pay more attention about listening to music
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 <!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
 <!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)-->
 
