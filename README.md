@@ -208,6 +208,18 @@ pay more attention about listening to music
 <img src="https://user-badge.committers.top/russia_private/Fayzimurod.svg">
 </a>
 
+<!-- --- --><br/><br/> 
+
+<a href="https://user-badge.committers.top//Fayzimurod">
+  <img src="https://user-badge.committers.top/worldwide/Fayzimurod.svg" alt="Committers Top" />
+</a>
+<a href="https://user-badge.committers.top/worldwide_public/Fayzimurod">
+<img src="https://user-badge.committers.top/worldwide_public/Fayzimurod.svg" />
+</a>
+<a href="https://user-badge.committers.top/worldwide_private/Fayzimurod">
+<img src="https://user-badge.committers.top/worldwide_private/Fayzimurod.svg">
+</a>
+
 <br/>
 <img src="https://komarev.com/ghpvc/?username=fayzimurod&color=B49CFB&style=for-the-badge" alt="profile-views" width="140px" />
 <!-- ![](https://komarev.com/ghpvc/?username=yourusername&color=FF7A8A&style=for-the-badge) -->
