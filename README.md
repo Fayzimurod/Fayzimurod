@@ -2,6 +2,7 @@
 liked that one music 🎵 🎶 
 I am going to buy a new escalate v. 
 Dodgy is always number-one and will be unchangeble top 
+from my perspective, it seems to be like i let her go. I hope it is not true and we will continue communicating with each other and fell in love more and more.  
 Dodgy is always number-one and will be unchangeble top - lil motivation 
 welcome back
 hope she will come back and stay loyal (love by heart , my 712)
