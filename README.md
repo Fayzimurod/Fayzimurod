@@ -1,5 +1,7 @@
 <!-- <p>
 liked that one music 🎵 🎶 
+that's seems like i will marry her (kinda goal - not kinda, exactly.) 
+
 + 1 new publication 
 I am going to buy a new escalate v. 
 Dodgy is always number-one and will be unchangeble top 
